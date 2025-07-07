@@ -12,6 +12,7 @@ The final output includes a clear visualization of model predictions, highlighti
 - Applied linear regression to forecast short-term price movements
 - Engineered multiple features
 - Visualized performance using Matplotlib, showing actual vs predicted prices over the last 2 months
+- Utilized sklearn, pandas, yfinance
 
 ---
 
