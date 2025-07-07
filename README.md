@@ -28,7 +28,7 @@ The final output includes a clear visualization of model predictions, highlighti
 
 ---
 
-## Graph Output
+## Example Graph Output
 
 ![Prediction Plot](abbv_stock_chart.png)
 
