@@ -9,22 +9,11 @@ The final output includes a clear visualization of model predictions, highlighti
 ## Project Highlights
 
 - Built a predictive model using real financial time-series data
-- Applied linear regression to forecast short-term price movements
-- Engineered multiple features
-- Visualized performance using Matplotlib, showing actual vs predicted prices over the last 2 months
-- Utilized sklearn, pandas, yfinance
-
----
-
-## Model Performance
-
-| Metric       | Value     |
-|--------------|-----------|
-| Train MSE    | ~1.75     |
-| Test MSE     | ~7.17     |
-| Test R² Score| **0.9849**|
-
-> The model generalizes well, maintaining high accuracy on unseen data while avoiding overfitting.
+- Applied **linear regression** to forecast short-term price movements
+- Engineered multiple new features
+- Visualized performance using **Matplotlib**, showing actual vs predicted prices over the last 2 months
+- Utilized **sklearn, pandas, yfinance**
+- Achieved test **R²** score of **0.9849**
 
 ---
 
